@@ -16,10 +16,6 @@ Sou estudante de Engenharia da Computação, interessado principalmente em siste
 * C e C++
 * Python
 
-<div align="center">
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=VitoriaBezerraBarbosa&show_icons=true&theme=tokyonight)
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=VitoriaBezerraBarbosa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitoriaBezerraBarbosa&layout=compact&langs_count=7&theme=tokyonight"/>
-
-</div>
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs?username=VitoriaBezerraBarbosa&layout=compact&theme=tokyonight)

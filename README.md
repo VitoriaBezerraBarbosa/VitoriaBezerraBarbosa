@@ -21,10 +21,9 @@
 </td>
 </tr>
 </table>
-<p>
-<img src="estrela.png" width="24" alt="estrela">
-<img src="estrela.png" width="24" alt="estrela">
-<img src="estrela.png" width="24" alt="estrela">
-</p>
+<td width="40%" align="center" valign="middle">
+  <p>✦ ⋆ ✧</p>
+  <img src="drac.png" width="350" alt="Imagem do perfil">
+  <p>✧ ⋆ ✦</p>
 </td>
 

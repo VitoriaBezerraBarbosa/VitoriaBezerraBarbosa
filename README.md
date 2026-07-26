@@ -16,12 +16,8 @@ Sou estudante de Engenharia da Computação, interessado principalmente em siste
 * C e C++
 * Python
 
-<div align="center">
-
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=VitoriaBezerraBarbosa&show_icons=true&theme=tokyonight"
-    alt="Estatísticas do GitHub"
-     />
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white">
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
 
 

@@ -18,4 +18,4 @@ Sou estudante de Engenharia da Computação, interessado principalmente em siste
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=VitoriaBezerraBarbosa&show_icons=true&theme=tokyonight)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs?username=VitoriaBezerraBarbosa&layout=compact&theme=tokyonight)
+

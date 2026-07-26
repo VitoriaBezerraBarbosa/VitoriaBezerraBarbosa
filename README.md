@@ -18,7 +18,7 @@
 </p>
 </td>
 <td width="40%" align="center" valign="middle">
-<img src="drac.png" width="350" alt="Imagem do perfil">
+<img src="drac (2).png" width="350" >
 </td>
 </tr>
 </table>

@@ -16,15 +16,10 @@ Sou estudante de Engenharia da Computação, interessado principalmente em siste
 * C e C++
 * Python
 
-<p align="left">
+<div align="center">
 
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=VitoriaBezerraBarbosa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<a href="mailto:SEU-EMAIL">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitoriaBezerraBarbosa&layout=compact&langs_count=7&theme=tokyonight"/>
 
-</p>
-
+</div>

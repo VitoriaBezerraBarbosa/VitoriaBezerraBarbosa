@@ -17,13 +17,11 @@
 </p>
 </td>
 <td width="40%" align="center" valign="middle">
+   <p>✦ ⋆ ✧</p>
 <img src="drac (2).png" width="350" >
+   <p>✦ ⋆ ✧</p>
 </td>
 </tr>
 </table>
-<td width="40%" align="center" valign="middle">
-  <p>✦ ⋆ ✧</p>
-  <img src="drac (2).png" width="350">
-  <p>✧ ⋆ ✦</p>
-</td>
+
 

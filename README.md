@@ -4,9 +4,8 @@
 <h1>Oi, meu nome é Agata Vitória 👋</h1>
 <p>Sou estudante de Engenharia da Computação, interessada principalmente em sistemas embarcados e desenvolvimento de projetos com microcontroladores.</p>
 <h2>Sobre mim</h2>
-📍 Campina Grande – PB<br>
 🔧 Aprendendo a utilizar ESP32<br>
-💻 Atualmente estou aprendendo C++, Python e desenvolvimento para microcontroladores.</p>
+💻 Atualmente estou estudando C++, Python e desenvolvimento para microcontroladores.</p>
 <h2>Tecnologias e ferramentas</h2>
 <p>
 </h1>

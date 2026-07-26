@@ -10,6 +10,11 @@
 💻 Atualmente estou aprendendo C++, Python e desenvolvimento para microcontroladores.</p>
 <h2>Tecnologias e ferramentas</h2>
 <p>
+<h1>
+  Oi, meu nome é Agata Vitória
+  <img src="estrela.png" width="28" alt="estrela">
+</h1>
+</h1>
 <img src="https://img.shields.io/badge/Arduino-8A2BE2?style=flat&logo=arduino&logoColor=white" alt="Arduino">
 <img src="https://img.shields.io/badge/C++-8A2BE2?style=flat&logo=cplusplus&logoColor=white" alt="C++">
 <img src="https://img.shields.io/badge/Python-8A2BE2?style=flat&logo=python&logoColor=white" alt="Python">
@@ -20,5 +25,5 @@
 </td>
 </tr>
 </table>
-<img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&size=28&lines=Oi,+meu+nome+é+Agata+Vitória">
+
 

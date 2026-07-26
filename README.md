@@ -16,17 +16,11 @@ Sou estudante de Engenharia da Computação, interessado principalmente em siste
 * C e C++
 * Python
 
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,git,github,vscode" />
-</p>
+<div align="center">
 
-    </td>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-    <td width="40%" align="center">
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=7&theme=tokyonight"/>
 
-<img src="COLOQUE-AQUI-O-LINK-DA-IMAGEM-OU-GIF" width="350px">
-
-    </td>
-  </tr>
-</table>
+</div>
 

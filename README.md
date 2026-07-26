@@ -24,4 +24,14 @@ Sou estudante de Engenharia da Computação, interessado principalmente em siste
   <img src="./drac (2).png" width="500" alt="Imagem do perfil">
 </div>
 
+<table>
+  <tr>
+    <td>
+      Texto do lado esquerdo
+    </td>
 
+    <td>
+      Imagem do lado direito
+    </td>
+  </tr>
+</table>

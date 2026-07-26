@@ -23,7 +23,7 @@
 </table>
 <td width="40%" align="center" valign="middle">
   <p>✦ ⋆ ✧</p>
-  <img src="drac.png" width="350" alt="Imagem do perfil">
+  <img src="drac (2).png" width="350">
   <p>✧ ⋆ ✦</p>
 </td>
 
